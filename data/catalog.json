@@ -1,0 +1,812 @@
+[
+ {
+  "id": "v01",
+  "cat": "veg",
+  "emoji": "🥔",
+  "name_da": "Kartofler",
+  "name_en": "Potatoes",
+  "size_da": "2 kg pose",
+  "size_en": "2 kg bag",
+  "price_dkk": 16.95
+ },
+ {
+  "id": "v02",
+  "cat": "veg",
+  "emoji": "🍠",
+  "name_da": "Søde kartofler",
+  "name_en": "Sweet potatoes",
+  "size_da": "1 kg",
+  "size_en": "1 kg",
+  "price_dkk": 19.95
+ },
+ {
+  "id": "v03",
+  "cat": "veg",
+  "emoji": "🥕",
+  "name_da": "Gulerødder",
+  "name_en": "Carrots",
+  "size_da": "1 kg pose",
+  "size_en": "1 kg bag",
+  "price_dkk": 9.95
+ },
+ {
+  "id": "v04",
+  "cat": "veg",
+  "emoji": "🧅",
+  "name_da": "Løg",
+  "name_en": "Onions",
+  "size_da": "1 kg net",
+  "size_en": "1 kg net",
+  "price_dkk": 12.95
+ },
+ {
+  "id": "v05",
+  "cat": "veg",
+  "emoji": "🧄",
+  "name_da": "Hvidløg",
+  "name_en": "Garlic",
+  "size_da": "3 stk",
+  "size_en": "3 pcs",
+  "price_dkk": 9.95
+ },
+ {
+  "id": "v06",
+  "cat": "veg",
+  "emoji": "🥦",
+  "name_da": "Broccoli",
+  "name_en": "Broccoli",
+  "size_da": "ca. 350 g",
+  "size_en": "approx. 350 g",
+  "price_dkk": 12.95
+ },
+ {
+  "id": "v07",
+  "cat": "veg",
+  "emoji": "🍅",
+  "name_da": "Tomater",
+  "name_en": "Tomatoes",
+  "size_da": "500 g",
+  "size_en": "500 g",
+  "price_dkk": 14.95
+ },
+ {
+  "id": "v08",
+  "cat": "veg",
+  "emoji": "🍒",
+  "name_da": "Cherrytomater",
+  "name_en": "Cherry tomatoes",
+  "size_da": "250 g",
+  "size_en": "250 g",
+  "price_dkk": 12.95
+ },
+ {
+  "id": "v09",
+  "cat": "veg",
+  "emoji": "🥒",
+  "name_da": "Agurk",
+  "name_en": "Cucumber",
+  "size_da": "1 stk",
+  "size_en": "1 pc",
+  "price_dkk": 9.95
+ },
+ {
+  "id": "v10",
+  "cat": "veg",
+  "emoji": "🥬",
+  "name_da": "Salathoved",
+  "name_en": "Head of lettuce",
+  "size_da": "1 stk",
+  "size_en": "1 pc",
+  "price_dkk": 12.95
+ },
+ {
+  "id": "v11",
+  "cat": "veg",
+  "emoji": "🍄",
+  "name_da": "Champignon",
+  "name_en": "Mushrooms",
+  "size_da": "250 g bakke",
+  "size_en": "250 g tray",
+  "price_dkk": 12.95
+ },
+ {
+  "id": "v12",
+  "cat": "veg",
+  "emoji": "🫑",
+  "name_da": "Peberfrugt",
+  "name_en": "Bell peppers",
+  "size_da": "3 stk",
+  "size_en": "3 pcs",
+  "price_dkk": 19.95
+ },
+ {
+  "id": "v13",
+  "cat": "veg",
+  "emoji": "🥒",
+  "name_da": "Squash",
+  "name_en": "Courgette",
+  "size_da": "1 stk",
+  "size_en": "1 pc",
+  "price_dkk": 9.95
+ },
+ {
+  "id": "v14",
+  "cat": "veg",
+  "emoji": "🥬",
+  "name_da": "Frisk spinat",
+  "name_en": "Fresh spinach",
+  "size_da": "175 g",
+  "size_en": "175 g",
+  "price_dkk": 14.95
+ },
+ {
+  "id": "v15",
+  "cat": "veg",
+  "emoji": "🧅",
+  "name_da": "Porrer",
+  "name_en": "Leeks",
+  "size_da": "2 stk",
+  "size_en": "2 pcs",
+  "price_dkk": 12.95
+ },
+ {
+  "id": "v16",
+  "cat": "veg",
+  "emoji": "🥑",
+  "name_da": "Avocado",
+  "name_en": "Avocado",
+  "size_da": "2 stk",
+  "size_en": "2 pcs",
+  "price_dkk": 16.95
+ },
+ {
+  "id": "v17",
+  "cat": "veg",
+  "emoji": "🍋",
+  "name_da": "Citron",
+  "name_en": "Lemons",
+  "size_da": "2 stk",
+  "size_en": "2 pcs",
+  "price_dkk": 8.95
+ },
+ {
+  "id": "v18",
+  "cat": "veg",
+  "emoji": "🌿",
+  "name_da": "Frisk persille",
+  "name_en": "Fresh parsley",
+  "size_da": "potte",
+  "size_en": "pot",
+  "price_dkk": 14.95
+ },
+ {
+  "id": "m01",
+  "cat": "meat",
+  "emoji": "🥩",
+  "name_da": "Hakket oksekød 8-12%",
+  "name_en": "Minced beef 8-12%",
+  "size_da": "500 g",
+  "size_en": "500 g",
+  "price_dkk": 34.95
+ },
+ {
+  "id": "m02",
+  "cat": "meat",
+  "emoji": "🥩",
+  "name_da": "Hakket oksekød 4-7%",
+  "name_en": "Minced beef 4-7%",
+  "size_da": "400 g",
+  "size_en": "400 g",
+  "price_dkk": 39.95
+ },
+ {
+  "id": "m03",
+  "cat": "meat",
+  "emoji": "🐖",
+  "name_da": "Hakket svinekød",
+  "name_en": "Minced pork",
+  "size_da": "500 g",
+  "size_en": "500 g",
+  "price_dkk": 27.95
+ },
+ {
+  "id": "m04",
+  "cat": "meat",
+  "emoji": "🥩",
+  "name_da": "Hakket okse/svin",
+  "name_en": "Minced beef & pork",
+  "size_da": "500 g",
+  "size_en": "500 g",
+  "price_dkk": 29.95
+ },
+ {
+  "id": "m05",
+  "cat": "meat",
+  "emoji": "🍗",
+  "name_da": "Kyllingebryst",
+  "name_en": "Chicken breast",
+  "size_da": "600 g",
+  "size_en": "600 g",
+  "price_dkk": 44.95
+ },
+ {
+  "id": "m06",
+  "cat": "meat",
+  "emoji": "🍗",
+  "name_da": "Kyllingelår",
+  "name_en": "Chicken thighs",
+  "size_da": "1 kg",
+  "size_en": "1 kg",
+  "price_dkk": 39.95
+ },
+ {
+  "id": "m07",
+  "cat": "meat",
+  "emoji": "🐔",
+  "name_da": "Hel kylling",
+  "name_en": "Whole chicken",
+  "size_da": "ca. 1,1 kg",
+  "size_en": "approx. 1.1 kg",
+  "price_dkk": 44.95
+ },
+ {
+  "id": "m08",
+  "cat": "meat",
+  "emoji": "🍖",
+  "name_da": "Svinekoteletter",
+  "name_en": "Pork chops",
+  "size_da": "600 g",
+  "size_en": "600 g",
+  "price_dkk": 39.95
+ },
+ {
+  "id": "m09",
+  "cat": "meat",
+  "emoji": "🥩",
+  "name_da": "Oksebøffer",
+  "name_en": "Beef steaks",
+  "size_da": "2 x 150 g",
+  "size_en": "2 x 150 g",
+  "price_dkk": 59.95
+ },
+ {
+  "id": "m10",
+  "cat": "meat",
+  "emoji": "🥓",
+  "name_da": "Bacon i tern",
+  "name_en": "Diced bacon",
+  "size_da": "200 g",
+  "size_en": "200 g",
+  "price_dkk": 17.95
+ },
+ {
+  "id": "m11",
+  "cat": "meat",
+  "emoji": "🌭",
+  "name_da": "Medisterpølse",
+  "name_en": "Danish pork sausage",
+  "size_da": "500 g",
+  "size_en": "500 g",
+  "price_dkk": 27.95
+ },
+ {
+  "id": "m12",
+  "cat": "meat",
+  "emoji": "🐟",
+  "name_da": "Laksefilet",
+  "name_en": "Salmon fillet",
+  "size_da": "2 x 130 g",
+  "size_en": "2 x 130 g",
+  "price_dkk": 49.95
+ },
+ {
+  "id": "m13",
+  "cat": "meat",
+  "emoji": "🐟",
+  "name_da": "Torskefilet, frost",
+  "name_en": "Cod fillet, frozen",
+  "size_da": "400 g",
+  "size_en": "400 g",
+  "price_dkk": 39.95
+ },
+ {
+  "id": "m14",
+  "cat": "meat",
+  "emoji": "🦐",
+  "name_da": "Rejer, pillede",
+  "name_en": "Peeled prawns",
+  "size_da": "200 g",
+  "size_en": "200 g",
+  "price_dkk": 34.95
+ },
+ {
+  "id": "m15",
+  "cat": "meat",
+  "emoji": "🥫",
+  "name_da": "Tun i vand",
+  "name_en": "Tuna in water",
+  "size_da": "185 g dåse",
+  "size_en": "185 g tin",
+  "price_dkk": 12.95
+ },
+ {
+  "id": "d01",
+  "cat": "dairy",
+  "emoji": "🥛",
+  "name_da": "Letmælk",
+  "name_en": "Semi-skimmed milk",
+  "size_da": "1 l",
+  "size_en": "1 l",
+  "price_dkk": 12.5
+ },
+ {
+  "id": "d02",
+  "cat": "dairy",
+  "emoji": "🥛",
+  "name_da": "Sødmælk, øko",
+  "name_en": "Whole milk, organic",
+  "size_da": "1 l",
+  "size_en": "1 l",
+  "price_dkk": 15.95
+ },
+ {
+  "id": "d03",
+  "cat": "dairy",
+  "emoji": "🥚",
+  "name_da": "Æg, frilands",
+  "name_en": "Free-range eggs",
+  "size_da": "10 stk",
+  "size_en": "10 pcs",
+  "price_dkk": 27.95
+ },
+ {
+  "id": "d04",
+  "cat": "dairy",
+  "emoji": "🧈",
+  "name_da": "Smør",
+  "name_en": "Butter",
+  "size_da": "200 g",
+  "size_en": "200 g",
+  "price_dkk": 21.95
+ },
+ {
+  "id": "d05",
+  "cat": "dairy",
+  "emoji": "🧀",
+  "name_da": "Revet mozzarella",
+  "name_en": "Grated mozzarella",
+  "size_da": "200 g",
+  "size_en": "200 g",
+  "price_dkk": 17.95
+ },
+ {
+  "id": "d06",
+  "cat": "dairy",
+  "emoji": "🧀",
+  "name_da": "Danbo 45+ i skiver",
+  "name_en": "Danbo cheese slices",
+  "size_da": "400 g",
+  "size_en": "400 g",
+  "price_dkk": 34.95
+ },
+ {
+  "id": "d07",
+  "cat": "dairy",
+  "emoji": "🧀",
+  "name_da": "Flødeost naturel",
+  "name_en": "Cream cheese",
+  "size_da": "200 g",
+  "size_en": "200 g",
+  "price_dkk": 14.95
+ },
+ {
+  "id": "d08",
+  "cat": "dairy",
+  "emoji": "🥛",
+  "name_da": "Piskefløde",
+  "name_en": "Whipping cream",
+  "size_da": "250 ml",
+  "size_en": "250 ml",
+  "price_dkk": 12.95
+ },
+ {
+  "id": "d09",
+  "cat": "dairy",
+  "emoji": "🥛",
+  "name_da": "Creme fraiche 18%",
+  "name_en": "Sour cream 18%",
+  "size_da": "200 ml",
+  "size_en": "200 ml",
+  "price_dkk": 9.95
+ },
+ {
+  "id": "d10",
+  "cat": "dairy",
+  "emoji": "🥣",
+  "name_da": "Yoghurt naturel",
+  "name_en": "Plain yoghurt",
+  "size_da": "1 kg",
+  "size_en": "1 kg",
+  "price_dkk": 17.95
+ },
+ {
+  "id": "d11",
+  "cat": "dairy",
+  "emoji": "🥣",
+  "name_da": "Skyr naturel",
+  "name_en": "Skyr, plain",
+  "size_da": "450 g",
+  "size_en": "450 g",
+  "price_dkk": 16.95
+ },
+ {
+  "id": "d12",
+  "cat": "dairy",
+  "emoji": "🧀",
+  "name_da": "Feta",
+  "name_en": "Feta",
+  "size_da": "200 g",
+  "size_en": "200 g",
+  "price_dkk": 16.95
+ },
+ {
+  "id": "d13",
+  "cat": "dairy",
+  "emoji": "🧀",
+  "name_da": "Revet parmesan",
+  "name_en": "Grated parmesan",
+  "size_da": "100 g",
+  "size_en": "100 g",
+  "price_dkk": 24.95
+ },
+ {
+  "id": "p01",
+  "cat": "plant",
+  "emoji": "🧊",
+  "name_da": "Tofu, fast",
+  "name_en": "Firm tofu",
+  "size_da": "200 g",
+  "size_en": "200 g",
+  "price_dkk": 19.95
+ },
+ {
+  "id": "p02",
+  "cat": "plant",
+  "emoji": "🌱",
+  "name_da": "Plantefars (hakket)",
+  "name_en": "Plant-based mince",
+  "size_da": "250 g",
+  "size_en": "250 g",
+  "price_dkk": 24.95
+ },
+ {
+  "id": "p03",
+  "cat": "plant",
+  "emoji": "🧆",
+  "name_da": "Falafler",
+  "name_en": "Falafel",
+  "size_da": "250 g",
+  "size_en": "250 g",
+  "price_dkk": 19.95
+ },
+ {
+  "id": "p04",
+  "cat": "plant",
+  "emoji": "🍔",
+  "name_da": "Vegetarbøffer",
+  "name_en": "Veggie burger patties",
+  "size_da": "2 stk",
+  "size_en": "2 pcs",
+  "price_dkk": 24.95
+ },
+ {
+  "id": "p05",
+  "cat": "plant",
+  "emoji": "🥛",
+  "name_da": "Havredrik",
+  "name_en": "Oat drink",
+  "size_da": "1 l",
+  "size_en": "1 l",
+  "price_dkk": 12.95
+ },
+ {
+  "id": "p06",
+  "cat": "plant",
+  "emoji": "🫘",
+  "name_da": "Kikærter",
+  "name_en": "Chickpeas",
+  "size_da": "400 g dåse",
+  "size_en": "400 g tin",
+  "price_dkk": 7.95
+ },
+ {
+  "id": "p07",
+  "cat": "plant",
+  "emoji": "🫘",
+  "name_da": "Kidneybønner",
+  "name_en": "Kidney beans",
+  "size_da": "400 g dåse",
+  "size_en": "400 g tin",
+  "price_dkk": 7.95
+ },
+ {
+  "id": "p08",
+  "cat": "plant",
+  "emoji": "🫘",
+  "name_da": "Røde linser",
+  "name_en": "Red lentils",
+  "size_da": "500 g",
+  "size_en": "500 g",
+  "price_dkk": 14.95
+ },
+ {
+  "id": "k01",
+  "cat": "pantry",
+  "emoji": "🍚",
+  "name_da": "Jasminris",
+  "name_en": "Jasmine rice",
+  "size_da": "1 kg",
+  "size_en": "1 kg",
+  "price_dkk": 22.95
+ },
+ {
+  "id": "k02",
+  "cat": "pantry",
+  "emoji": "🍝",
+  "name_da": "Spaghetti",
+  "name_en": "Spaghetti",
+  "size_da": "500 g",
+  "size_en": "500 g",
+  "price_dkk": 9.95
+ },
+ {
+  "id": "k03",
+  "cat": "pantry",
+  "emoji": "🍝",
+  "name_da": "Penne",
+  "name_en": "Penne",
+  "size_da": "500 g",
+  "size_en": "500 g",
+  "price_dkk": 9.95
+ },
+ {
+  "id": "k04",
+  "cat": "pantry",
+  "emoji": "🥫",
+  "name_da": "Flåede tomater",
+  "name_en": "Chopped tomatoes",
+  "size_da": "400 g dåse",
+  "size_en": "400 g tin",
+  "price_dkk": 6.95
+ },
+ {
+  "id": "k05",
+  "cat": "pantry",
+  "emoji": "🥫",
+  "name_da": "Tomatpuré",
+  "name_en": "Tomato purée",
+  "size_da": "140 g",
+  "size_en": "140 g",
+  "price_dkk": 5.95
+ },
+ {
+  "id": "k06",
+  "cat": "pantry",
+  "emoji": "🥥",
+  "name_da": "Kokosmælk",
+  "name_en": "Coconut milk",
+  "size_da": "400 ml",
+  "size_en": "400 ml",
+  "price_dkk": 11.95
+ },
+ {
+  "id": "k07",
+  "cat": "pantry",
+  "emoji": "🫙",
+  "name_da": "Rapsolie",
+  "name_en": "Rapeseed oil",
+  "size_da": "1 l",
+  "size_en": "1 l",
+  "price_dkk": 24.95
+ },
+ {
+  "id": "k08",
+  "cat": "pantry",
+  "emoji": "🫒",
+  "name_da": "Olivenolie",
+  "name_en": "Olive oil",
+  "size_da": "500 ml",
+  "size_en": "500 ml",
+  "price_dkk": 34.95
+ },
+ {
+  "id": "k09",
+  "cat": "pantry",
+  "emoji": "🍛",
+  "name_da": "Rød karrypasta",
+  "name_en": "Red curry paste",
+  "size_da": "110 g",
+  "size_en": "110 g",
+  "price_dkk": 14.95
+ },
+ {
+  "id": "k10",
+  "cat": "pantry",
+  "emoji": "🧂",
+  "name_da": "Bouillonterninger",
+  "name_en": "Stock cubes",
+  "size_da": "6 stk",
+  "size_en": "6 pcs",
+  "price_dkk": 9.95
+ },
+ {
+  "id": "k11",
+  "cat": "pantry",
+  "emoji": "🍶",
+  "name_da": "Soyasauce",
+  "name_en": "Soy sauce",
+  "size_da": "150 ml",
+  "size_en": "150 ml",
+  "price_dkk": 14.95
+ },
+ {
+  "id": "k12",
+  "cat": "pantry",
+  "emoji": "🌯",
+  "name_da": "Tortillas",
+  "name_en": "Tortillas",
+  "size_da": "8 stk",
+  "size_en": "8 pcs",
+  "price_dkk": 14.95
+ },
+ {
+  "id": "k13",
+  "cat": "pantry",
+  "emoji": "🧂",
+  "name_da": "Krydderiblanding",
+  "name_en": "Spice mix",
+  "size_da": "30 g",
+  "size_en": "30 g",
+  "price_dkk": 8.95
+ },
+ {
+  "id": "b01",
+  "cat": "bread",
+  "emoji": "🍞",
+  "name_da": "Rugbrød",
+  "name_en": "Rye bread",
+  "size_da": "950 g",
+  "size_en": "950 g",
+  "price_dkk": 14.95
+ },
+ {
+  "id": "b02",
+  "cat": "bread",
+  "emoji": "🍞",
+  "name_da": "Grovbrød",
+  "name_en": "Wholegrain loaf",
+  "size_da": "750 g",
+  "size_en": "750 g",
+  "price_dkk": 16.95
+ },
+ {
+  "id": "b03",
+  "cat": "bread",
+  "emoji": "🍔",
+  "name_da": "Burgerboller",
+  "name_en": "Burger buns",
+  "size_da": "4 stk",
+  "size_en": "4 pcs",
+  "price_dkk": 12.95
+ },
+ {
+  "id": "b04",
+  "cat": "bread",
+  "emoji": "🥖",
+  "name_da": "Flutes",
+  "name_en": "Baguettes",
+  "size_da": "2 stk",
+  "size_en": "2 pcs",
+  "price_dkk": 10.95
+ },
+ {
+  "id": "f01",
+  "cat": "frozen",
+  "emoji": "🫛",
+  "name_da": "Frosne ærter",
+  "name_en": "Frozen peas",
+  "size_da": "450 g",
+  "size_en": "450 g",
+  "price_dkk": 9.95
+ },
+ {
+  "id": "f02",
+  "cat": "frozen",
+  "emoji": "🥦",
+  "name_da": "Frosne blandingsgrønt",
+  "name_en": "Frozen mixed veg",
+  "size_da": "1 kg",
+  "size_en": "1 kg",
+  "price_dkk": 17.95
+ },
+ {
+  "id": "f03",
+  "cat": "frozen",
+  "emoji": "🍟",
+  "name_da": "Pommes frites",
+  "name_en": "Oven chips",
+  "size_da": "1 kg",
+  "size_en": "1 kg",
+  "price_dkk": 16.95
+ },
+ {
+  "id": "f04",
+  "cat": "frozen",
+  "emoji": "🥬",
+  "name_da": "Frossen spinat",
+  "name_en": "Frozen spinach",
+  "size_da": "450 g",
+  "size_en": "450 g",
+  "price_dkk": 11.95
+ },
+ {
+  "id": "r01",
+  "cat": "ready",
+  "emoji": "🍕",
+  "name_da": "Frossen pizza, pepperoni",
+  "name_en": "Frozen pizza, pepperoni",
+  "size_da": "350 g",
+  "size_en": "350 g",
+  "price_dkk": 24.95
+ },
+ {
+  "id": "r02",
+  "cat": "ready",
+  "emoji": "🍝",
+  "name_da": "Lasagne, frost",
+  "name_en": "Lasagne, frozen",
+  "size_da": "400 g",
+  "size_en": "400 g",
+  "price_dkk": 29.95
+ },
+ {
+  "id": "r03",
+  "cat": "ready",
+  "emoji": "🥡",
+  "name_da": "Wok-mix m. kylling, frost",
+  "name_en": "Chicken wok mix, frozen",
+  "size_da": "800 g",
+  "size_en": "800 g",
+  "price_dkk": 39.95
+ },
+ {
+  "id": "r04",
+  "cat": "ready",
+  "emoji": "🍡",
+  "name_da": "Frikadeller, færdigstegte",
+  "name_en": "Ready-cooked meatballs",
+  "size_da": "400 g",
+  "size_en": "400 g",
+  "price_dkk": 34.95
+ },
+ {
+  "id": "r05",
+  "cat": "ready",
+  "emoji": "🐟",
+  "name_da": "Paneret fiskefilet, frost",
+  "name_en": "Breaded fish fillet",
+  "size_da": "400 g",
+  "size_en": "400 g",
+  "price_dkk": 29.95
+ },
+ {
+  "id": "r06",
+  "cat": "ready",
+  "emoji": "🥗",
+  "name_da": "Færdigsalat m. kylling",
+  "name_en": "Ready salad w. chicken",
+  "size_da": "200 g",
+  "size_en": "200 g",
+  "price_dkk": 34.95
+ }
+]

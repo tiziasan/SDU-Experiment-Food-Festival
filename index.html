@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1">
+<meta name="theme-color" content="#0f5132">
+<meta name="robots" content="noindex,nofollow">
+<title>Dagligvarer · Nudge2Green</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛒</text></svg>">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<!-- ============ TOP BAR ============ -->
+<header class="topbar" id="topbar">
+  <div class="topbar-in">
+    <div class="brand"><span class="brand-mark">🛒</span><span data-i18n="brand">Dagligvarer</span></div>
+    <div class="topbar-right">
+      <button class="lang-btn" id="langBtn" type="button" aria-label="Skift sprog / Change language">
+        <span id="langFlag">🇬🇧</span><span data-i18n="langLabel">English</span>
+      </button>
+      <button class="basket-btn" id="basketBtn" type="button" hidden>
+        <span>🧺</span><span class="badge" id="basketBadge">0</span>
+      </button>
+    </div>
+  </div>
+  <div class="budgetbar" id="budgetbar" hidden>
+    <div class="budgetbar-in">
+      <div class="bb-task" data-i18n="sh_taskChip"></div>
+      <div class="bb-nums"><span id="bbSpent">0</span> / 250 kr.</div>
+    </div>
+    <div class="bb-track"><div class="bb-fill" id="bbFill"></div></div>
+  </div>
+</header>
+
+<main id="main">
+
+<!-- ============ 1. WELCOME ============ -->
+<section class="screen active" id="scr-welcome">
+  <div class="wrap narrow">
+    <div class="hero">
+      <div class="hero-emoji">🛒</div>
+      <h1 data-i18n="w_title"></h1>
+      <p class="sub" data-i18n="w_sub"></p>
+    </div>
+    <p class="lead" data-i18n="w_lead"></p>
+    <ul class="facts">
+      <li><span>⏱️</span><span data-i18n="w_time"></span></li>
+      <li><span>🍺</span><span data-i18n="w_reward"></span></li>
+      <li><span>🔒</span><span data-i18n="w_anon"></span></li>
+    </ul>
+    <label class="consent" for="consent">
+      <input type="checkbox" id="consent">
+      <span data-i18n="w_consent"></span>
+    </label>
+    <p class="err" id="consentErr" hidden data-i18n="w_consentReq"></p>
+    <button class="btn primary big" id="startBtn" type="button" data-i18n="w_start"></button>
+    <p class="fineprint" data-i18n="w_privacy"></p>
+  </div>
+</section>
+
+<!-- ============ 2. SURVEY ============ -->
+<section class="screen" id="scr-survey">
+  <div class="wrap narrow">
+    <div class="progress">
+      <div class="progress-track"><div class="progress-fill" id="progFill"></div></div>
+      <div class="progress-txt"><span data-i18n="s_progress"></span> <span id="progNow">1</span> <span data-i18n="s_of"></span> <span id="progTot">10</span></div>
+    </div>
+    <div id="qHost"></div>
+    <p class="err" id="qErr" hidden data-i18n="s_required"></p>
+    <div class="navrow">
+      <button class="btn ghost" id="qBack" type="button" data-i18n="s_back"></button>
+      <button class="btn primary" id="qNext" type="button" data-i18n="s_next"></button>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 3. TASK BRIEF ============ -->
+<section class="screen" id="scr-task">
+  <div class="wrap narrow">
+    <div class="hero">
+      <div class="hero-emoji">🍽️</div>
+      <h1 data-i18n="t_title"></h1>
+    </div>
+    <div class="taskcard">
+      <p class="taskline" data-i18n="t_body"></p>
+      <div class="budgetchip"><span data-i18n="t_budget"></span></div>
+      <p class="muted" data-i18n="t_normal"></p>
+    </div>
+    <button class="btn primary big" id="toShopBtn" type="button" data-i18n="t_go"></button>
+  </div>
+</section>
+
+<!-- ============ 4. SHOP ============ -->
+<section class="screen" id="scr-shop">
+  <div class="shopwrap">
+    <div class="searchrow">
+      <input type="search" id="search" autocomplete="off" autocorrect="off" spellcheck="false" data-i18n-ph="sh_search">
+    </div>
+    <nav class="cats" id="cats"></nav>
+    <div class="grid" id="grid"></div>
+    <p class="nores" id="noRes" hidden data-i18n="sh_none"></p>
+    <div class="shop-foot"></div>
+  </div>
+  <button class="checkout-fab" id="checkoutFab" type="button">
+    <span class="cf-left"><span id="cfCount">0</span> <span id="cfCountWord"></span></span>
+    <span class="cf-mid" data-i18n="sh_checkout"></span>
+    <span class="cf-right"><span id="cfTotal">0</span> kr.</span>
+  </button>
+</section>
+
+<!-- ============ 5. DONE ============ -->
+<section class="screen" id="scr-done">
+  <div class="wrap narrow center">
+    <div class="hero">
+      <div class="hero-emoji">🍺</div>
+      <h1 data-i18n="dn_title"></h1>
+      <p class="sub" data-i18n="dn_body"></p>
+    </div>
+    <div class="statusbox" id="sendStatus"><span class="spinner"></span><span data-i18n="dn_sending"></span></div>
+    <div class="codecard" id="codeCard" hidden>
+      <p class="codelabel" data-i18n="dn_beer"></p>
+      <div class="code" id="pidCode">—</div>
+      <p class="codesub"><span data-i18n="dn_id"></span></p>
+    </div>
+    <details class="about">
+      <summary data-i18n="dn_about"></summary>
+      <p data-i18n="dn_aboutBody"></p>
+    </details>
+    <button class="btn ghost small" id="resetBtn" type="button" data-i18n="dn_new"></button>
+  </div>
+</section>
+
+</main>
+
+<!-- ============ BASKET SHEET ============ -->
+<div class="sheet-back" id="sheetBack" hidden></div>
+<aside class="sheet" id="sheet" hidden aria-modal="true" role="dialog">
+  <div class="sheet-head">
+    <h2 data-i18n="sh_basket"></h2>
+    <button class="x" id="sheetClose" type="button" aria-label="Luk">✕</button>
+  </div>
+  <div class="sheet-body" id="sheetBody"></div>
+  <div class="sheet-foot">
+    <div class="sf-total"><span data-i18n="sh_total"></span><b><span id="sheetTotal">0</span> kr.</b></div>
+    <button class="btn primary" id="sheetCheckout" type="button" data-i18n="sh_checkout"></button>
+  </div>
+</aside>
+
+<!-- ============ CONFIRM DIALOG ============ -->
+<div class="modal-back" id="confirmBack" hidden>
+  <div class="modal" role="dialog" aria-modal="true">
+    <h3 data-i18n="sh_confirmTitle"></h3>
+    <p data-i18n="sh_confirmBody"></p>
+    <div class="modal-btns">
+      <button class="btn ghost" id="confirmNo" type="button" data-i18n="sh_confirmNo"></button>
+      <button class="btn primary" id="confirmYes" type="button" data-i18n="sh_confirmYes"></button>
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast" hidden></div>
+
+<script src="js/i18n.js"></script>
+<script src="js/catalog.js"></script>
+<script src="js/config.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,81 @@
+v01 | Potatoes | 2 kg bag | 16.95 DKK | veg
+v02 | Sweet potatoes | 1 kg | 19.95 DKK | veg
+v03 | Carrots | 1 kg bag | 9.95 DKK | veg
+v04 | Onions | 1 kg net | 12.95 DKK | veg
+v05 | Garlic | 3 pcs | 9.95 DKK | veg
+v06 | Broccoli | approx. 350 g | 12.95 DKK | veg
+v07 | Tomatoes | 500 g | 14.95 DKK | veg
+v08 | Cherry tomatoes | 250 g | 12.95 DKK | veg
+v09 | Cucumber | 1 pc | 9.95 DKK | veg
+v10 | Head of lettuce | 1 pc | 12.95 DKK | veg
+v11 | Mushrooms | 250 g tray | 12.95 DKK | veg
+v12 | Bell peppers | 3 pcs | 19.95 DKK | veg
+v13 | Courgette | 1 pc | 9.95 DKK | veg
+v14 | Fresh spinach | 175 g | 14.95 DKK | veg
+v15 | Leeks | 2 pcs | 12.95 DKK | veg
+v16 | Avocado | 2 pcs | 16.95 DKK | veg
+v17 | Lemons | 2 pcs | 8.95 DKK | veg
+v18 | Fresh parsley | pot | 14.95 DKK | veg
+m01 | Minced beef 8-12% | 500 g | 34.95 DKK | meat
+m02 | Minced beef 4-7% | 400 g | 39.95 DKK | meat
+m03 | Minced pork | 500 g | 27.95 DKK | meat
+m04 | Minced beef & pork | 500 g | 29.95 DKK | meat
+m05 | Chicken breast | 600 g | 44.95 DKK | meat
+m06 | Chicken thighs | 1 kg | 39.95 DKK | meat
+m07 | Whole chicken | approx. 1.1 kg | 44.95 DKK | meat
+m08 | Pork chops | 600 g | 39.95 DKK | meat
+m09 | Beef steaks | 2 x 150 g | 59.95 DKK | meat
+m10 | Diced bacon | 200 g | 17.95 DKK | meat
+m11 | Danish pork sausage | 500 g | 27.95 DKK | meat
+m12 | Salmon fillet | 2 x 130 g | 49.95 DKK | meat
+m13 | Cod fillet, frozen | 400 g | 39.95 DKK | meat
+m14 | Peeled prawns | 200 g | 34.95 DKK | meat
+m15 | Tuna in water | 185 g tin | 12.95 DKK | meat
+d01 | Semi-skimmed milk | 1 l | 12.50 DKK | dairy
+d02 | Whole milk, organic | 1 l | 15.95 DKK | dairy
+d03 | Free-range eggs | 10 pcs | 27.95 DKK | dairy
+d04 | Butter | 200 g | 21.95 DKK | dairy
+d05 | Grated mozzarella | 200 g | 17.95 DKK | dairy
+d06 | Danbo cheese slices | 400 g | 34.95 DKK | dairy
+d07 | Cream cheese | 200 g | 14.95 DKK | dairy
+d08 | Whipping cream | 250 ml | 12.95 DKK | dairy
+d09 | Sour cream 18% | 200 ml | 9.95 DKK | dairy
+d10 | Plain yoghurt | 1 kg | 17.95 DKK | dairy
+d11 | Skyr, plain | 450 g | 16.95 DKK | dairy
+d12 | Feta | 200 g | 16.95 DKK | dairy
+d13 | Grated parmesan | 100 g | 24.95 DKK | dairy
+p01 | Firm tofu | 200 g | 19.95 DKK | plant
+p02 | Plant-based mince | 250 g | 24.95 DKK | plant
+p03 | Falafel | 250 g | 19.95 DKK | plant
+p04 | Veggie burger patties | 2 pcs | 24.95 DKK | plant
+p05 | Oat drink | 1 l | 12.95 DKK | plant
+p06 | Chickpeas | 400 g tin | 7.95 DKK | plant
+p07 | Kidney beans | 400 g tin | 7.95 DKK | plant
+p08 | Red lentils | 500 g | 14.95 DKK | plant
+k01 | Jasmine rice | 1 kg | 22.95 DKK | pantry
+k02 | Spaghetti | 500 g | 9.95 DKK | pantry
+k03 | Penne | 500 g | 9.95 DKK | pantry
+k04 | Chopped tomatoes | 400 g tin | 6.95 DKK | pantry
+k05 | Tomato purée | 140 g | 5.95 DKK | pantry
+k06 | Coconut milk | 400 ml | 11.95 DKK | pantry
+k07 | Rapeseed oil | 1 l | 24.95 DKK | pantry
+k08 | Olive oil | 500 ml | 34.95 DKK | pantry
+k09 | Red curry paste | 110 g | 14.95 DKK | pantry
+k10 | Stock cubes | 6 pcs | 9.95 DKK | pantry
+k11 | Soy sauce | 150 ml | 14.95 DKK | pantry
+k12 | Tortillas | 8 pcs | 14.95 DKK | pantry
+k13 | Spice mix | 30 g | 8.95 DKK | pantry
+b01 | Rye bread | 950 g | 14.95 DKK | bread
+b02 | Wholegrain loaf | 750 g | 16.95 DKK | bread
+b03 | Burger buns | 4 pcs | 12.95 DKK | bread
+b04 | Baguettes | 2 pcs | 10.95 DKK | bread
+f01 | Frozen peas | 450 g | 9.95 DKK | frozen
+f02 | Frozen mixed veg | 1 kg | 17.95 DKK | frozen
+f03 | Oven chips | 1 kg | 16.95 DKK | frozen
+f04 | Frozen spinach | 450 g | 11.95 DKK | frozen
+r01 | Frozen pizza, pepperoni | 350 g | 24.95 DKK | ready
+r02 | Lasagne, frozen | 400 g | 29.95 DKK | ready
+r03 | Chicken wok mix, frozen | 800 g | 39.95 DKK | ready
+r04 | Ready-cooked meatballs | 400 g | 34.95 DKK | ready
+r05 | Breaded fish fillet | 400 g | 29.95 DKK | ready
+r06 | Ready salad w. chicken | 200 g | 34.95 DKK | ready

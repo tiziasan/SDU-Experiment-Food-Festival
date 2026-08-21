@@ -1,0 +1,82 @@
+id,cat,name_en,name_da,size_en,size_da,price_dkk
+v01,veg,Potatoes,Kartofler,2 kg bag,2 kg pose,16.95
+v02,veg,Sweet potatoes,Søde kartofler,1 kg,1 kg,19.95
+v03,veg,Carrots,Gulerødder,1 kg bag,1 kg pose,9.95
+v04,veg,Onions,Løg,1 kg net,1 kg net,12.95
+v05,veg,Garlic,Hvidløg,3 pcs,3 stk,9.95
+v06,veg,Broccoli,Broccoli,approx. 350 g,ca. 350 g,12.95
+v07,veg,Tomatoes,Tomater,500 g,500 g,14.95
+v08,veg,Cherry tomatoes,Cherrytomater,250 g,250 g,12.95
+v09,veg,Cucumber,Agurk,1 pc,1 stk,9.95
+v10,veg,Head of lettuce,Salathoved,1 pc,1 stk,12.95
+v11,veg,Mushrooms,Champignon,250 g tray,250 g bakke,12.95
+v12,veg,Bell peppers,Peberfrugt,3 pcs,3 stk,19.95
+v13,veg,Courgette,Squash,1 pc,1 stk,9.95
+v14,veg,Fresh spinach,Frisk spinat,175 g,175 g,14.95
+v15,veg,Leeks,Porrer,2 pcs,2 stk,12.95
+v16,veg,Avocado,Avocado,2 pcs,2 stk,16.95
+v17,veg,Lemons,Citron,2 pcs,2 stk,8.95
+v18,veg,Fresh parsley,Frisk persille,pot,potte,14.95
+m01,meat,Minced beef 8-12%,Hakket oksekød 8-12%,500 g,500 g,34.95
+m02,meat,Minced beef 4-7%,Hakket oksekød 4-7%,400 g,400 g,39.95
+m03,meat,Minced pork,Hakket svinekød,500 g,500 g,27.95
+m04,meat,Minced beef & pork,Hakket okse/svin,500 g,500 g,29.95
+m05,meat,Chicken breast,Kyllingebryst,600 g,600 g,44.95
+m06,meat,Chicken thighs,Kyllingelår,1 kg,1 kg,39.95
+m07,meat,Whole chicken,Hel kylling,approx. 1.1 kg,"ca. 1,1 kg",44.95
+m08,meat,Pork chops,Svinekoteletter,600 g,600 g,39.95
+m09,meat,Beef steaks,Oksebøffer,2 x 150 g,2 x 150 g,59.95
+m10,meat,Diced bacon,Bacon i tern,200 g,200 g,17.95
+m11,meat,Danish pork sausage,Medisterpølse,500 g,500 g,27.95
+m12,meat,Salmon fillet,Laksefilet,2 x 130 g,2 x 130 g,49.95
+m13,meat,"Cod fillet, frozen","Torskefilet, frost",400 g,400 g,39.95
+m14,meat,Peeled prawns,"Rejer, pillede",200 g,200 g,34.95
+m15,meat,Tuna in water,Tun i vand,185 g tin,185 g dåse,12.95
+d01,dairy,Semi-skimmed milk,Letmælk,1 l,1 l,12.5
+d02,dairy,"Whole milk, organic","Sødmælk, øko",1 l,1 l,15.95
+d03,dairy,Free-range eggs,"Æg, frilands",10 pcs,10 stk,27.95
+d04,dairy,Butter,Smør,200 g,200 g,21.95
+d05,dairy,Grated mozzarella,Revet mozzarella,200 g,200 g,17.95
+d06,dairy,Danbo cheese slices,Danbo 45+ i skiver,400 g,400 g,34.95
+d07,dairy,Cream cheese,Flødeost naturel,200 g,200 g,14.95
+d08,dairy,Whipping cream,Piskefløde,250 ml,250 ml,12.95
+d09,dairy,Sour cream 18%,Creme fraiche 18%,200 ml,200 ml,9.95
+d10,dairy,Plain yoghurt,Yoghurt naturel,1 kg,1 kg,17.95
+d11,dairy,"Skyr, plain",Skyr naturel,450 g,450 g,16.95
+d12,dairy,Feta,Feta,200 g,200 g,16.95
+d13,dairy,Grated parmesan,Revet parmesan,100 g,100 g,24.95
+p01,plant,Firm tofu,"Tofu, fast",200 g,200 g,19.95
+p02,plant,Plant-based mince,Plantefars (hakket),250 g,250 g,24.95
+p03,plant,Falafel,Falafler,250 g,250 g,19.95
+p04,plant,Veggie burger patties,Vegetarbøffer,2 pcs,2 stk,24.95
+p05,plant,Oat drink,Havredrik,1 l,1 l,12.95
+p06,plant,Chickpeas,Kikærter,400 g tin,400 g dåse,7.95
+p07,plant,Kidney beans,Kidneybønner,400 g tin,400 g dåse,7.95
+p08,plant,Red lentils,Røde linser,500 g,500 g,14.95
+k01,pantry,Jasmine rice,Jasminris,1 kg,1 kg,22.95
+k02,pantry,Spaghetti,Spaghetti,500 g,500 g,9.95
+k03,pantry,Penne,Penne,500 g,500 g,9.95
+k04,pantry,Chopped tomatoes,Flåede tomater,400 g tin,400 g dåse,6.95
+k05,pantry,Tomato purée,Tomatpuré,140 g,140 g,5.95
+k06,pantry,Coconut milk,Kokosmælk,400 ml,400 ml,11.95
+k07,pantry,Rapeseed oil,Rapsolie,1 l,1 l,24.95
+k08,pantry,Olive oil,Olivenolie,500 ml,500 ml,34.95
+k09,pantry,Red curry paste,Rød karrypasta,110 g,110 g,14.95
+k10,pantry,Stock cubes,Bouillonterninger,6 pcs,6 stk,9.95
+k11,pantry,Soy sauce,Soyasauce,150 ml,150 ml,14.95
+k12,pantry,Tortillas,Tortillas,8 pcs,8 stk,14.95
+k13,pantry,Spice mix,Krydderiblanding,30 g,30 g,8.95
+b01,bread,Rye bread,Rugbrød,950 g,950 g,14.95
+b02,bread,Wholegrain loaf,Grovbrød,750 g,750 g,16.95
+b03,bread,Burger buns,Burgerboller,4 pcs,4 stk,12.95
+b04,bread,Baguettes,Flutes,2 pcs,2 stk,10.95
+f01,frozen,Frozen peas,Frosne ærter,450 g,450 g,9.95
+f02,frozen,Frozen mixed veg,Frosne blandingsgrønt,1 kg,1 kg,17.95
+f03,frozen,Oven chips,Pommes frites,1 kg,1 kg,16.95
+f04,frozen,Frozen spinach,Frossen spinat,450 g,450 g,11.95
+r01,ready,"Frozen pizza, pepperoni","Frossen pizza, pepperoni",350 g,350 g,24.95
+r02,ready,"Lasagne, frozen","Lasagne, frost",400 g,400 g,29.95
+r03,ready,"Chicken wok mix, frozen","Wok-mix m. kylling, frost",800 g,800 g,39.95
+r04,ready,Ready-cooked meatballs,"Frikadeller, færdigstegte",400 g,400 g,34.95
+r05,ready,Breaded fish fillet,"Paneret fiskefilet, frost",400 g,400 g,29.95
+r06,ready,Ready salad w. chicken,Færdigsalat m. kylling,200 g,200 g,34.95

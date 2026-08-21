@@ -1,0 +1,82 @@
+product_id,name_en,name_da,category,size_en,price_dkk,pack_weight_kg,co2e_kg_per_kg,co2e_kg_per_pack
+v01,Potatoes,Kartofler,veg,2 kg bag,16.95,2.0,0.35,0.7
+v02,Sweet potatoes,Søde kartofler,veg,1 kg,19.95,1.0,0.6,0.6
+v03,Carrots,Gulerødder,veg,1 kg bag,9.95,1.0,0.35,0.35
+v04,Onions,Løg,veg,1 kg net,12.95,1.0,0.4,0.4
+v05,Garlic,Hvidløg,veg,3 pcs,9.95,0.15,0.9,0.135
+v06,Broccoli,Broccoli,veg,approx. 350 g,12.95,0.35,0.7,0.245
+v07,Tomatoes,Tomater,veg,500 g,14.95,0.5,2.6,1.3
+v08,Cherry tomatoes,Cherrytomater,veg,250 g,12.95,0.25,3.0,0.75
+v09,Cucumber,Agurk,veg,1 pc,9.95,0.35,1.3,0.455
+v10,Head of lettuce,Salathoved,veg,1 pc,12.95,0.3,0.7,0.21
+v11,Mushrooms,Champignon,veg,250 g tray,12.95,0.25,1.5,0.375
+v12,Bell peppers,Peberfrugt,veg,3 pcs,19.95,0.45,2.2,0.99
+v13,Courgette,Squash,veg,1 pc,9.95,0.3,0.8,0.24
+v14,Fresh spinach,Frisk spinat,veg,175 g,14.95,0.175,1.2,0.21
+v15,Leeks,Porrer,veg,2 pcs,12.95,0.4,0.6,0.24
+v16,Avocado,Avocado,veg,2 pcs,16.95,0.3,2.5,0.75
+v17,Lemons,Citron,veg,2 pcs,8.95,0.2,0.7,0.14
+v18,Fresh parsley,Frisk persille,veg,pot,14.95,0.05,1.5,0.075
+m01,Minced beef 8-12%,Hakket oksekød 8-12%,meat,500 g,34.95,0.5,24.0,12.0
+m02,Minced beef 4-7%,Hakket oksekød 4-7%,meat,400 g,39.95,0.4,25.0,10.0
+m03,Minced pork,Hakket svinekød,meat,500 g,27.95,0.5,5.5,2.75
+m04,Minced beef & pork,Hakket okse/svin,meat,500 g,29.95,0.5,13.5,6.75
+m05,Chicken breast,Kyllingebryst,meat,600 g,44.95,0.6,3.4,2.04
+m06,Chicken thighs,Kyllingelår,meat,1 kg,39.95,1.0,3.2,3.2
+m07,Whole chicken,Hel kylling,meat,approx. 1.1 kg,44.95,1.1,3.1,3.41
+m08,Pork chops,Svinekoteletter,meat,600 g,39.95,0.6,5.8,3.48
+m09,Beef steaks,Oksebøffer,meat,2 x 150 g,59.95,0.3,27.0,8.1
+m10,Diced bacon,Bacon i tern,meat,200 g,17.95,0.2,6.5,1.3
+m11,Danish pork sausage,Medisterpølse,meat,500 g,27.95,0.5,6.0,3.0
+m12,Salmon fillet,Laksefilet,meat,2 x 130 g,49.95,0.26,5.4,1.404
+m13,"Cod fillet, frozen","Torskefilet, frost",meat,400 g,39.95,0.4,3.0,1.2
+m14,Peeled prawns,"Rejer, pillede",meat,200 g,34.95,0.2,6.0,1.2
+m15,Tuna in water,Tun i vand,meat,185 g tin,12.95,0.185,3.5,0.647
+d01,Semi-skimmed milk,Letmælk,dairy,1 l,12.50,1.03,1.2,1.236
+d02,"Whole milk, organic","Sødmælk, øko",dairy,1 l,15.95,1.03,1.3,1.339
+d03,Free-range eggs,"Æg, frilands",dairy,10 pcs,27.95,0.6,2.0,1.2
+d04,Butter,Smør,dairy,200 g,21.95,0.2,9.0,1.8
+d05,Grated mozzarella,Revet mozzarella,dairy,200 g,17.95,0.2,8.5,1.7
+d06,Danbo cheese slices,Danbo 45+ i skiver,dairy,400 g,34.95,0.4,8.5,3.4
+d07,Cream cheese,Flødeost naturel,dairy,200 g,14.95,0.2,5.0,1.0
+d08,Whipping cream,Piskefløde,dairy,250 ml,12.95,0.26,4.5,1.17
+d09,Sour cream 18%,Creme fraiche 18%,dairy,200 ml,9.95,0.21,3.0,0.63
+d10,Plain yoghurt,Yoghurt naturel,dairy,1 kg,17.95,1.0,1.6,1.6
+d11,"Skyr, plain",Skyr naturel,dairy,450 g,16.95,0.45,2.2,0.99
+d12,Feta,Feta,dairy,200 g,16.95,0.2,6.5,1.3
+d13,Grated parmesan,Revet parmesan,dairy,100 g,24.95,0.1,10.5,1.05
+p01,Firm tofu,"Tofu, fast",plant,200 g,19.95,0.2,2.0,0.4
+p02,Plant-based mince,Plantefars (hakket),plant,250 g,24.95,0.25,2.8,0.7
+p03,Falafel,Falafler,plant,250 g,19.95,0.25,1.8,0.45
+p04,Veggie burger patties,Vegetarbøffer,plant,2 pcs,24.95,0.23,2.5,0.575
+p05,Oat drink,Havredrik,plant,1 l,12.95,1.03,0.5,0.515
+p06,Chickpeas,Kikærter,plant,400 g tin,7.95,0.4,1.2,0.48
+p07,Kidney beans,Kidneybønner,plant,400 g tin,7.95,0.4,1.2,0.48
+p08,Red lentils,Røde linser,plant,500 g,14.95,0.5,1.3,0.65
+k01,Jasmine rice,Jasminris,pantry,1 kg,22.95,1.0,3.0,3.0
+k02,Spaghetti,Spaghetti,pantry,500 g,9.95,0.5,1.5,0.75
+k03,Penne,Penne,pantry,500 g,9.95,0.5,1.5,0.75
+k04,Chopped tomatoes,Flåede tomater,pantry,400 g tin,6.95,0.4,1.4,0.56
+k05,Tomato purée,Tomatpuré,pantry,140 g,5.95,0.14,2.2,0.308
+k06,Coconut milk,Kokosmælk,pantry,400 ml,11.95,0.4,2.0,0.8
+k07,Rapeseed oil,Rapsolie,pantry,1 l,24.95,0.92,2.5,2.3
+k08,Olive oil,Olivenolie,pantry,500 ml,34.95,0.46,5.4,2.484
+k09,Red curry paste,Rød karrypasta,pantry,110 g,14.95,0.11,2.0,0.22
+k10,Stock cubes,Bouillonterninger,pantry,6 pcs,9.95,0.06,4.0,0.24
+k11,Soy sauce,Soyasauce,pantry,150 ml,14.95,0.15,1.6,0.24
+k12,Tortillas,Tortillas,pantry,8 pcs,14.95,0.32,1.4,0.448
+k13,Spice mix,Krydderiblanding,pantry,30 g,8.95,0.03,3.0,0.09
+b01,Rye bread,Rugbrød,bread,950 g,14.95,0.95,0.9,0.855
+b02,Wholegrain loaf,Grovbrød,bread,750 g,16.95,0.75,1.0,0.75
+b03,Burger buns,Burgerboller,bread,4 pcs,12.95,0.3,1.2,0.36
+b04,Baguettes,Flutes,bread,2 pcs,10.95,0.3,1.1,0.33
+f01,Frozen peas,Frosne ærter,frozen,450 g,9.95,0.45,0.9,0.405
+f02,Frozen mixed veg,Frosne blandingsgrønt,frozen,1 kg,17.95,1.0,1.0,1.0
+f03,Oven chips,Pommes frites,frozen,1 kg,16.95,1.0,1.6,1.6
+f04,Frozen spinach,Frossen spinat,frozen,450 g,11.95,0.45,1.1,0.495
+r01,"Frozen pizza, pepperoni","Frossen pizza, pepperoni",ready,350 g,24.95,0.35,3.5,1.225
+r02,"Lasagne, frozen","Lasagne, frost",ready,400 g,29.95,0.4,4.5,1.8
+r03,"Chicken wok mix, frozen","Wok-mix m. kylling, frost",ready,800 g,39.95,0.8,3.0,2.4
+r04,Ready-cooked meatballs,"Frikadeller, færdigstegte",ready,400 g,34.95,0.4,5.5,2.2
+r05,Breaded fish fillet,"Paneret fiskefilet, frost",ready,400 g,29.95,0.4,3.2,1.28
+r06,Ready salad w. chicken,Færdigsalat m. kylling,ready,200 g,34.95,0.2,3.5,0.7
