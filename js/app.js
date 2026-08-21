@@ -569,10 +569,6 @@ function init () {
     submit();
   });
 
-  $('#resetBtn').addEventListener('click', () => {
-    startNew(); applyLang(); refreshShop(); show('scr-welcome');
-  });
-
   document.addEventListener('keydown', e => {
     if (e.key === 'Escape') { closeSheet(); $('#confirmBack').hidden = true; }
   });
